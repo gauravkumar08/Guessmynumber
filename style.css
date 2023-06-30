@@ -1,0 +1,27 @@
+body{
+    background-color: rgba(45,56,43,32);
+}
+#container{
+    background-color: black;
+    border: 5px solid #F5E4C3;
+    height: 275px;
+    width: 750px;
+    margin: 200px 20px 50px 390px;
+    text-align: center;
+}   
+
+p{
+    color:white;
+    font-size: 24px;;
+}
+
+#input{
+    width: 100px;
+    margin: 25px auto;
+}
+
+#btn{
+    margin: 25px  auto auto 5px;
+    cursor: pointer;
+}
+
